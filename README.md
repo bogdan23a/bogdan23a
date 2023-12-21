@@ -1,5 +1,3 @@
-# $${\color{#37d99e}\texttt{Welcome 👋}}$$
-
 <p align="center">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="./resources/dark.jpeg">
