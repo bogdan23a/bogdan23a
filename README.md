@@ -10,93 +10,169 @@
 
 ## $${\color{#37d99e}\texttt{My Customization Tools}}$$
 
-<table>
-    <tr>
-        <th style="color: #37d99e">
-            Tool
-        </th>
-        <th style="color: #37d99e">
-            Description
-        </th>
-        <th style="color: #37d99e">
-            Configuration
-        </th>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://github.com/koekeishiya/yabai">
-                <img alt="Yabai" src="https://github.com/koekeishiya/yabai/raw/master/assets/banner/banner.svg" width="200px"/>
-            </a>
-        </td>
-        <td style="color: #E5D487">
-            tiling window management
-        </td>
-        <td>
-            <a href="https://github.com/bogdan23a/.config/blob/main/yabai/yabairc">
-                <img alt="config" src="./resources/cog.png" width="50px">
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://github.com/koekeishiya/skhd">skhd</a>
-        </td>
-        <td style="color: #E5D487">
-            hotkey daemon
-        </td>
-        <td>
-            <a href="https://github.com/bogdan23a/.config/blob/main/skhd/skhdrc">
-                <img alt="config" src="./resources/cog.png" width="50px"/>
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td style="color: #37d99e">
-            <a href="https://github.com/pqrs-org/Karabiner-Elements">
-                <img alt="karabiner elements" src="./resources/karabiner.png" width="50px"/>
-                <p>Karabiner Elements</p>
-            </a>
-        </td>
-        <td style="color: #E5D487">
-            utility for keyboard customization
-        </td>
-        <td>
-            <a href="https://github.com/bogdan23a/.config/blob/main/karabiner/karabiner.json">
-                <img alt="config" src="./resources/cog.png" width="50px"/>
-            </a>
-        </td>
-    </tr><tr>
-        <td>
-            <a href="https://github.com/gnachman/iTerm2">
-                <img alt="iTerm2" src="./resources/iTerm.jpeg" width="150px"/>
-            </a>
-        </td>
-        <td style="color: #E5D487">
-            terminal emulator
-        </td>
-        <td>
-            <!-- <a href="#"><img alt="config" src="./resources/cog.png" width="40px"/></a> -->
-        </td>
-    </tr><tr>
-        <td>
-            <a href="https://github.com/JanDeDobbeleer/oh-my-posh">
-                <img alt="oh-my-posh" src="https://raw.githubusercontent.com/jandedobbeleer/oh-my-posh/main/website/static/img/logo.png" width="100px"/>
-            </a>
-        </td>
-        <td style="color: #E5D487">
-            prompt theme engine
-        </td>
-        <td>
-            <a href="https://github.com/bogdan23a/.config/blob/main/oh-my-posh/bromium.omp.json">
-                <img alt="config" src="./resources/brush.png" width="50px"/>
-            </a>
-        </td>
-    </tr>
-</table>
+<p align="center">
+    <table>
+        <tr>
+            <th style="color: #37d99e">
+                <p align="center">Tool</p>
+            </th>
+            <th style="color: #37d99e">
+                <p align="center">Description</p>
+            </th>
+            <th style="color: #37d99e">
+                <p align="center">Configuration</p>
+            </th>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/koekeishiya/yabai">
+                    <img alt="Yabai" src="https://github.com/koekeishiya/yabai/raw/master/assets/banner/banner.svg" width="200px"/>
+                </a>
+            </td>
+            <td style="color: #E5D487">
+                <p align="center">tiling window management</p>
+            </td>
+            <td>
+                <a href="https://github.com/bogdan23a/.config/blob/main/yabai/yabairc">
+                    <p align="center">
+                        <img alt="config" src="./resources/cog.png" width="50px">
+                    </p>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/koekeishiya/skhd">
+                    <p align="center">skhd</p>
+                </a>
+            </td>
+            <td style="color: #E5D487">
+                <p align="center">hotkey daemon<p/>
+            </td>
+            <td>
+                <a href="https://github.com/bogdan23a/.config/blob/main/skhd/skhdrc">
+                    <p align="center">
+                        <img alt="config" src="./resources/cog.png" width="50px"/>
+                    </p>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td style="color: #37d99e">
+                <a href="https://github.com/pqrs-org/Karabiner-Elements">
+                    <p align="center">
+                        <img alt="karabiner elements" src="./resources/karabiner.png" width="50px"/>
+                        <p align="center">Karabiner Elements</p>
+                    </p>
+                </a>
+            </td>
+            <td style="color: #E5D487">
+                <p align="center">utility for keyboard customization</p>
+            </td>
+            <td>
+                <a href="https://github.com/bogdan23a/.config/blob/main/karabiner/karabiner.json">
+                    <p align="center">
+                        <img alt="config" src="./resources/cog.png" width="50px"/>
+                    </p>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/gnachman/iTerm2">
+                    <p align="center">
+                        <img alt="iTerm2" src="./resources/iTerm.jpeg" width="150px"/>
+                    </p>
+                </a>
+            </td>
+            <td style="color: #E5D487">
+                <p align="center">terminal emulator</p>
+            </td>
+            <td>
+                <!-- <a href="#"><img alt="config" src="./resources/cog.png" width="40px"/></a> -->
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/JanDeDobbeleer/oh-my-posh">
+                    <p align="center">
+                        <img alt="oh-my-posh" src="https://raw.githubusercontent.com/jandedobbeleer/oh-my-posh/main/website/static/img/logo.png" width="100px"/>
+                    </p>
+                </a>
+            </td>
+            <td style="color: #E5D487">
+                <p align="center">prompt theme engine</p>
+            </td>
+            <td>
+                <a href="https://github.com/bogdan23a/.config/blob/main/oh-my-posh/bromium.omp.json">
+                    <p align="center">
+                        <img alt="config" src="./resources/brush.png" width="50px"/>
+                    </p>
+                </a>
+            </td>
+        </tr>
+    </table>
+</p>
 
 ## $${\color{#37d99e}\texttt{IDEs}}$$
 
-|                      $${\color{#37d99e}\texttt{Tool}}$$                      | $${\color{#37d99e}\texttt{Description}}$$ | $${\color{#37d99e}\texttt{Configuration}}$$                                                                                                |
-| :--------------------------------------------------------------------------: | :---------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------ |
-|     <a href=""><img alt="IntelliJ" src="./resources/IntelliJ.svg"/></a>      |  $${\color{#E5D487}\texttt{Java IDE}}$$   | <a href="https://github.com/bogdan23a/.config/blob/main/yabai/yabairc"><img alt="config" src="./resources/brush.png" width="40px">         |
-| <a href=""><img alt="VSCode" src="./resources/vscode.ico" width="40px"/></a> | $${\color{#E5D487}\texttt{Code Editor}}$$ | <a href="https://marketplace.visualstudio.com/items?itemName=TheBromo.bromium"><img alt="config" src="./resources/brush.png" width="40px"> |
+<p align="center">
+    <table>
+        <tr>
+            <th style="color: #37d99e">
+                <p align="center">Tool</p>
+            </th>
+            <th style="color: #37d99e">
+                <p align="center">Description</p>
+            </th>
+            <th style="color: #37d99e">
+                <p align="center">Configuration</p>
+            </th>
+        </tr>
+        <tr>
+            <td>
+                <a href="">
+                    <p align="center">
+                        <img alt="IntelliJ" src="./resources/IntelliJ.svg"/>
+                    </p>
+                </a>
+            </td>
+            <td style="color: #E5D487">
+                <p align="center">Java IDE</p>
+            </td>
+            <td>
+                <a href="https://github.com/bogdan23a/.config/blob/main/yabai/yabairc">
+                    <p align="center">
+                        <img alt="config" src="./resources/brush.png" width="50px"/>
+                    </p>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="">
+                    <p align="center">
+                        <img alt="VSCode" src="./resources/vscode.ico" width="50px"/>
+                    </p>
+                </a>
+            </td>
+            <td style="color: #E5D487">
+                <p align="center">code editor<p/>
+            </td>
+            <td>
+                <a href="https://marketplace.visualstudio.com/items?itemName=TheBromo.bromium">
+                    <p align="center">
+                        <img alt="config" src="./resources/brush.png" width="50px"/>
+                    </p>
+                </a>
+            </td>
+        </tr>
+    </table>
+</p>
+
+<hr>
+
+<p align="center">
+    <img alt="Santa Claus hanging by several cables in the gift extractor; caption: Dude" src="./resources/merry-christmas.gif" width="100%">
+    <h3 align="center" style="color:#f7768e" >Happy Holidays But At What Cost</h3>
+</p>
