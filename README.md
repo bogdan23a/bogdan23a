@@ -1,10 +1,8 @@
-<h1 style="color: #37d99e"> Welcome 👋</h1>
+# $${\color{#37d99e}Welcome 👋}$$
 
 <img alt="Workbech" src="https://images.unsplash.com/photo-1634703080363-98f94e5a1076?q=80&w=3425&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" style="object-fit: cover;object-position:50% 55%" height="300" width="1000">
 
-### I keep it neat with
-
-<h2 style="color: #37d99e">Customisation</h2>
+## $${\color{#37d99e}My \space Customisation \space Tools}$$
 
 |                                                                    <p style="color: #37d99e">Tool</p>                                                                     |            <p style="color: #37d99e">Description</p>             | <p style="color: #37d99e">Configuration</p>                                                                                                                                                             |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
