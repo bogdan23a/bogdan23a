@@ -26,7 +26,9 @@
         <tr>
             <td>
                 <a href="https://github.com/koekeishiya/yabai">
-                    <img alt="Yabai" src="https://github.com/koekeishiya/yabai/raw/master/assets/banner/banner.svg" width="200px"/>
+                    <p align="center">
+                        <img alt="Yabai" src="https://github.com/koekeishiya/yabai/raw/master/assets/banner/banner.svg" width="100px"/>
+                    </p>
                 </a>
             </td>
             <td style="color: #E5D487">
@@ -35,7 +37,7 @@
             <td>
                 <a href="https://github.com/bogdan23a/.config/blob/main/yabai/yabairc">
                     <p align="center">
-                        <img alt="config" src="./resources/cog.png" width="50px">
+                        <img alt="config" src="./resources/cog.png" width="25px">
                     </p>
                 </a>
             </td>
@@ -52,7 +54,7 @@
             <td>
                 <a href="https://github.com/bogdan23a/.config/blob/main/skhd/skhdrc">
                     <p align="center">
-                        <img alt="config" src="./resources/cog.png" width="50px"/>
+                        <img alt="config" src="./resources/cog.png" width="25px"/>
                     </p>
                 </a>
             </td>
@@ -61,7 +63,7 @@
             <td style="color: #37d99e">
                 <a href="https://github.com/pqrs-org/Karabiner-Elements">
                     <p align="center">
-                        <img alt="karabiner elements" src="./resources/karabiner.png" width="50px"/>
+                        <img alt="karabiner elements" src="./resources/karabiner.png" width="25px"/>
                         <p align="center">Karabiner Elements</p>
                     </p>
                 </a>
@@ -72,7 +74,7 @@
             <td>
                 <a href="https://github.com/bogdan23a/.config/blob/main/karabiner/karabiner.json">
                     <p align="center">
-                        <img alt="config" src="./resources/cog.png" width="50px"/>
+                        <img alt="config" src="./resources/cog.png" width="25px"/>
                     </p>
                 </a>
             </td>
@@ -81,7 +83,7 @@
             <td>
                 <a href="https://github.com/gnachman/iTerm2">
                     <p align="center">
-                        <img alt="iTerm2" src="./resources/iTerm.jpeg" width="150px"/>
+                        <img alt="iTerm2" src="./resources/iTerm.jpeg" width="75px"/>
                     </p>
                 </a>
             </td>
@@ -96,7 +98,7 @@
             <td>
                 <a href="https://github.com/JanDeDobbeleer/oh-my-posh">
                     <p align="center">
-                        <img alt="oh-my-posh" src="https://raw.githubusercontent.com/jandedobbeleer/oh-my-posh/main/website/static/img/logo.png" width="100px"/>
+                        <img alt="oh-my-posh" src="https://raw.githubusercontent.com/jandedobbeleer/oh-my-posh/main/website/static/img/logo.png" width="50px"/>
                     </p>
                 </a>
             </td>
@@ -106,7 +108,7 @@
             <td>
                 <a href="https://github.com/bogdan23a/.config/blob/main/oh-my-posh/bromium.omp.json">
                     <p align="center">
-                        <img alt="config" src="./resources/brush.png" width="50px"/>
+                        <img alt="config" src="./resources/brush.png" width="25px"/>
                     </p>
                 </a>
             </td>
@@ -133,7 +135,7 @@
             <td>
                 <a href="">
                     <p align="center">
-                        <img alt="IntelliJ" src="./resources/IntelliJ.svg"/>
+                        <img alt="IntelliJ" src="./resources/IntelliJ.svg" width="25px"/>
                     </p>
                 </a>
             </td>
@@ -143,7 +145,7 @@
             <td>
                 <a href="https://github.com/bogdan23a/.config/blob/main/yabai/yabairc">
                     <p align="center">
-                        <img alt="config" src="./resources/brush.png" width="50px"/>
+                        <img alt="config" src="./resources/brush.png" width="25px"/>
                     </p>
                 </a>
             </td>
@@ -152,7 +154,7 @@
             <td>
                 <a href="">
                     <p align="center">
-                        <img alt="VSCode" src="./resources/vscode.ico" width="50px"/>
+                        <img alt="VSCode" src="./resources/vscode.ico" width="25px"/>
                     </p>
                 </a>
             </td>
@@ -162,7 +164,7 @@
             <td>
                 <a href="https://marketplace.visualstudio.com/items?itemName=TheBromo.bromium">
                     <p align="center">
-                        <img alt="config" src="./resources/brush.png" width="50px"/>
+                        <img alt="config" src="./resources/brush.png" width="25px"/>
                     </p>
                 </a>
             </td>
