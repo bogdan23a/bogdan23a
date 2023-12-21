@@ -2,15 +2,13 @@
 
 <p align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./resources/dark.avif">
-        <source media="(prefers-color-scheme: light)" srcset="./resources/white.avif">
-        <img alt="Shows an image with a person wearing a pair of cyberpunk style lit glasses" src="./resources/dark.avif" height="862" width="640">
+        <source media="(prefers-color-scheme: dark)" srcset="./resources/dark.jpeg">
+        <source media="(prefers-color-scheme: light)" srcset="./resources/white.jpeg">
+        <img alt="Shows an image with a person wearing a pair of cyberpunk style lit glasses" src="./resources/dark.jpeg">
     </picture>
 </p>
 
 ## $${\color{#37d99e}\texttt{My Customization Tools}}$$
-
-<p color="black">What</p>
 
 |                                                                                  $${\color{#37d99e}\text{Tool}}$$                                                                                   |             $${\color{#37d99e}\text{Description}}$$              | $${\color{#37d99e}\text{Configuration}}$$                                                                                                           |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------: | --------------------------------------------------------------------------------------------------------------------------------------------------- |
