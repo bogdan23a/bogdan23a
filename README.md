@@ -1,9 +1,9 @@
 # $${\color{#37d99e}\text{Welcome 👋}}$$
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://images.unsplash.com/photo-1634703080363-98f94e5a1076?q=80&w=3425&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" style="object-fit: cover;object-position:50% 55%" height="300" width="1000">
-    <source media="(prefers-color-scheme: light)" srcset="https://images.unsplash.com/photo-1573767291321-c0af2eaf5266?q=80&w=2203&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" style="object-fit: cover;object-position:50% 55%" height="300" width="1000">
-    <img alt="Shows an image with a person wearing a pair of cyberpunk style lit glasses" src="https://images.unsplash.com/photo-1634703080363-98f94e5a1076?q=80&w=3425&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" style="object-fit: cover;object-position:50% 55%" height="300" width="1000">
+    <source media="(prefers-color-scheme: dark)" srcset="https://images.unsplash.com/photo-1634703080363-98f94e5a1076?q=80&w=3425&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" sizes="(max-width: 710px) 120px, (max-width: 991px) 193px, 300px">
+    <source media="(prefers-color-scheme: light)" srcset="https://images.unsplash.com/photo-1573767291321-c0af2eaf5266?q=80&w=2203&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" sizes="(max-width: 710px) 120px, (max-width: 991px) 193px, 300px">
+    <img alt="Shows an image with a person wearing a pair of cyberpunk style lit glasses" src="https://images.unsplash.com/photo-1634703080363-98f94e5a1076?q=80&w=3425&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" style="object-fit: cover; object-position:50% 55%" height="300" width="1000">
 </picture>
 
 ## $${\color{#37d99e}\text{My Customization Tools}}$$
