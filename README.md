@@ -24,3 +24,59 @@
 | :--------------------------------------------------------------------------: | :---------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------ |
 |     <a href=""><img alt="IntelliJ" src="./resources/IntelliJ.svg"/></a>      |  $${\color{#E5D487}\texttt{Java IDE}}$$   | <a href="https://github.com/bogdan23a/.config/blob/main/yabai/yabairc"><img alt="config" src="./resources/brush.png" width="40px">         |
 | <a href=""><img alt="VSCode" src="./resources/vscode.ico" width="40px"/></a> | $${\color{#E5D487}\texttt{Code Editor}}$$ | <a href="https://marketplace.visualstudio.com/items?itemName=TheBromo.bromium"><img alt="config" src="./resources/brush.png" width="40px"> |
+
+<table>
+    <tr>
+        <th>
+            Tool
+        </th>
+        <th>
+            Description
+        </th>
+        <th>
+            Configuration
+        </th>
+    </tr> 
+    <tr>
+        <td>
+            <a href="https://github.com/koekeishiya/yabai"><img alt="Yabai" src="https://github.com/koekeishiya/yabai/raw/master/assets/banner/banner.svg"/></a>
+        </td>
+        <td>
+            tiling window management
+        </td>
+        <td>
+            <a href="https://github.com/bogdan23a/.config/blob/main/yabai/yabairc"><img alt="config" src="./resources/cog.png" width="40px"/></a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/koekeishiya/yabai"><img alt="Yabai" src="https://github.com/koekeishiya/yabai/raw/master/assets/banner/banner.svg"/></a>
+        </td>
+        <td>
+            tiling window management
+        </td>
+        <td>
+            <a href="https://github.com/bogdan23a/.config/blob/main/yabai/yabairc"><img alt="config" src="./resources/cog.png" width="40px"/></a>
+        </td>
+    </tr><tr>
+        <td>
+            <a href="https://github.com/koekeishiya/yabai"><img alt="Yabai" src="./resources/karabiner.png"/></a>
+        </td>
+        <td>
+            tiling window management
+        </td>
+        <td>
+            <a href="https://github.com/bogdan23a/.config/blob/main/yabai/yabairc"><img alt="config" src="./resources/iTerm.jpeg" width="40px"/></a>
+        </td>
+    </tr><tr>
+        <td>
+            <a href="https://github.com/koekeishiya/yabai"><img alt="Yabai" src="https://github.com/koekeishiya/yabai/raw/master/assets/banner/banner.svg"/></a>
+        </td>
+        <td>
+            tiling window management
+        </td>
+        <td>
+            <a href="https://github.com/bogdan23a/.config/blob/main/yabai/yabairc"><img alt="config" src="./resources/cog.png" width="40px"/></a>
+        </td>
+    </tr>
+</table>
