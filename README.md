@@ -141,7 +141,7 @@
                 <p align="center">Java IDE</p>
             </td>
             <td>
-                <a href="https://github.com/bogdan23a/.config/blob/main/yabai/yabairc">
+                <a href="https://plugins.jetbrains.com/plugin/23426-matrix">
                     <p align="center">
                         <img alt="config" src="./resources/brush.png" width="25px"/>
                     </p>
@@ -173,6 +173,5 @@
 <hr>
 
 <p align="center">
-    <img alt="Santa Claus hanging by several cables in the gift extractor; caption: Dude" src="./resources/merry-christmas.gif" width="100%">
-    <h3 align="center" style="color:#f7768e" >Happy Holidays But At What Cost</h3>
+    <img alt="Santa Claus hanging by several cables in the gift extractor; caption: Dude" src="https://preview.redd.it/e1ck7vngll811.png?auto=webp&s=1752dd67c9f55b329170756d91f8d14b896944de">
 </p>
