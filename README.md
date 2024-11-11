@@ -169,9 +169,3 @@
         </tr>
     </table>
 </p>
-
-<hr>
-
-<p align="center">
-    <img alt="Santa Claus hanging by several cables in the gift extractor; caption: Dude" src="https://preview.redd.it/e1ck7vngll811.png?auto=webp&s=1752dd67c9f55b329170756d91f8d14b896944de">
-</p>
