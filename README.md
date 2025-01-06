@@ -1,11 +1,11 @@
-// <p align="center">
-//     <picture>
-//         <source media="(prefers-color-scheme: dark)" srcset="./resources/dark.jpeg">
-//         <source media="(prefers-color-scheme: light)" srcset="./resources/white.jpeg">
-//         <img alt="Shows an image with a person wearing a pair of cyberpunk style lit glasses" src="./resources/dark.jpeg">
-//     </picture>
-// </p>
-
+<!--- <p align="center">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./resources/dark.jpeg">
+        <source media="(prefers-color-scheme: light)" srcset="./resources/white.jpeg">
+        <img alt="Shows an image with a person wearing a pair of cyberpunk style lit glasses" src="./resources/dark.jpeg">
+    </picture>
+</p>
+-->
 ## $${\color{#37d99e}\texttt{My Customization Tools}}$$
 
 <p align="center">
