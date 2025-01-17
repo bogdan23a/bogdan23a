@@ -1,6 +1,6 @@
 I'm Bogdan Gherasim, a programmer for the beautiful yet occasionally baffling land of Romania. I spend my days wrangling code and crafting software that (hopefully) doesn't explode.
 
-Right now I'm focusing on contracting work - think of me as a mercenary for hire, but instead of swords and shields, I wield keyboards and caffeine. The goal? To fund my grand plan to eventually diving into the world of open source, where I can contribute to making the internet (and possibly the world) a slightly less chaotic place. 
+Right now I'm focusing on contracting work - think of me as a mercenary for hire, but instead of swords and shields, I wield keyboards and caffeine. The goal? To fund my grand plan to eventually dive into the world of open source, where I can contribute to making the internet (and possibly the world) a slightly less chaotic place. 
 
 I'm always on the lookout for interesting projects, so if you have something in mind, don't hesitate to reach out.
 
