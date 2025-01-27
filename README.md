@@ -9,7 +9,8 @@ What I do:
 * tackle software challenges with the enthusiasm of a Labrador chasing a tennis ball
 * dream about the day I can focus solely on open source without worrying about pesky things like paying the bills 
 
-You can see what I really do by checking out my [bogdan.gherasim.co.uk/cv](cv).
+You can see what I really do by checking out my [cv](https://bogdan.gherasim.co.uk/cv).
+
 I will leave you with a quote from a Romanian fairy tale, I find this is the embodiment of those tiny infuriating bugs that pop up right before a deadline. Just like this passage, a programmer's life is a battle of wits against chaos, where steaks are high, and the margins for error are thinner than a semicolon.
 
 > As he (Greuceanu) was lazily moving forward, reclining in the cart, he passed by a lame devil who was blocking travelers' paths to cause them trouble. This devil was afraid to confront Greuceanu directly, but so as not to let him escape untouched by his devilish mischief, he removed the nail from the rear axle and threw it far behind.
